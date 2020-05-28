@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="o2_trainer">O2 Trainer</string>
+    <string name="notifier">Notifier</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="start">Start</string>
+    <string name="_00_00">00:00</string>
+    <string name="hold_your_breath">Hold your Breath</string>
+    <string name="_1_00">01:00</string>
+    <string name="_1_15">01:15</string>
+    <string name="_1_30">01:30</string>
+    <string name="done">Done!!</string>
+    <string name="take_rest">Take Rest!</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="reminder">Reminder</string>
+    <string name="finish">Finish</string>
+</resources>
